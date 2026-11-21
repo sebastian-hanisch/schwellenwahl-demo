@@ -1,7 +1,6 @@
 # Schwellenwahl: wo ist die Schwelle hoch genug? – Streamlit-Demo
 
-<!-- Live-Link nach dem Deploy hier setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-schwellenwahl-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-schwellenwahl-demo.streamlit.app/)**
 
 Demo der Linie **„Extremwerte erklärt“** in der „Konzepte“-Reihe der Website „Sebastian Hanisch – Operations Research und Machine Learning“ (Bereich Statistik, Feld „Seltenes und Extremes“). Die Kante zur Demo davor („Überschreitungen und die GPD“) heißt `fix`: Dort ist die **Schwelle gegeben** (der Anteil oder die Zahl k der Überschreitungen), und die verallgemeinerte Pareto-Verteilung gilt oberhalb von ihr. Diese Demo hebt die Annahme auf: **die Schwelle muss aus den Daten gewählt werden**, und eine zu tiefe Schwelle verzerrt den Pegel, ein fester Wert zeigt das nicht. Gezeigt wird das an Reihen mit **bekannter Wahrheit**: ein Spleiß-Fall (Konstruktion mit Dichtesprung), Lognormal, Exponential und die ausgedachte Verweilzeit-Mischung „Vehikel B“.
 
